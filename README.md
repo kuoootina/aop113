@@ -10,5 +10,6 @@
 - [EX01-04 終極密碼](EX01-04＿終極密碼.ipynb)
 - [EX01-05 Caesar Cipher: Encode and decode](EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
 - [EX01-06 簡易購物車](EX01_06_簡易購物車.ipynb)
+- [EX01-07 美食資訊查詢]
 
 ## 02 Web Crawler
