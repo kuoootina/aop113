@@ -20,3 +20,4 @@
 - [EX02-04 Download Pokemon Images](EX02_04_Download_Pokemon_Images.ipynb)
 - [EX02-05 PTT Gossiping](EX02_05_PTT_Gossiping.ipynb)
 - [EX02_06_開眼電影](EX02_06_開眼電影.ipynb)
+- [EX02_07_KKDay](EX02_07_KKDay.ipynb)
