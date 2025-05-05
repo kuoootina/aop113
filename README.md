@@ -27,3 +27,9 @@
 - [EX03_02_公司薪資概況Ⅱ](EX03_02_公司薪資概況Ⅱ.ipynb)
 - [EX03-03 空氣品質指標(AQI)](EX03_03_空氣品質指標(AQI).ipynb)
 - [EX03-04 薪情平台](EX03_04_薪情平台.ipynb)
+- [EX03-05 台灣股票市場個股每日成交資訊](EX03_05_台灣股票市場個股每日成交資訊.ipynb)
+- [EX03_06_出生人口數](EX03_06_出生人口數.ipynb)
+- [EX03-07 Tips](EX03_07_Tips.ipynb)
+
+## 05 Wep API
+- [EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
